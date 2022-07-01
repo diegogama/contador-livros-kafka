@@ -1,0 +1,25 @@
+docker-compose up -d
+
+docker exec -it micronaut-kafka_kafka_1 /bin/bash
+
+https://kafka.apache.org/quickstart
+
+http://localhost:19000/
+
+kafka-topics --create --topic topicoTese --bootstrap-server localhost:9092
+
+kafka-topics --describe --topic topicoTese --bootstrap-server localhost:9092
+
+kafka-console-consumer --topic topicoTese --from-beginning --bootstrap-server localhost:9092
+
+kafka-console-producer --topic topicoTese  --bootstrap-server localhost:9092
+
+https://imasters.com.br/back-end/5-coisas-que-voce-nao-sabia-sobre-serializacao-de-objeto-java
+
+https://chocolatey.org/install
+
+https://community.chocolatey.org/packages/protoc
+
+choco install protoc
+
+protoc --version
