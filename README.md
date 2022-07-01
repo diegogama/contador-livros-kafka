@@ -21,3 +21,13 @@ Ao buscar um livro especifico por ID o mesmo sera registrado no contador
 Buscar Livor por ID GET > localhost:8080/livros/01
 
 Listar contador > localhost:8085/contador
+
+
+Evidencia de testes:
+
+![image](https://user-images.githubusercontent.com/6165929/176976739-7c879769-992c-42cb-bbe1-c0b6dbbed61c.png)
+
+![image](https://user-images.githubusercontent.com/6165929/176976750-61abb7ad-0e29-40be-be2f-aac3e258b982.png)
+
+
+![image](https://user-images.githubusercontent.com/6165929/176976712-187f573d-1db6-4b4a-bcb4-a5922f0e2cd3.png)
